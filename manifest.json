@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "GitHub Commit Colors",
+    "version": "0.1",
+    "description": "Colorizes your GitHub commits",
+    "author": "Turhan Coskun <turhancoskun@gmail.com>",
+    "content_scripts": [
+        {
+            "matches": [
+                "https://github.com/*"
+            ],
+            "js": ["content.js"]
+        }
+    ]
+}
