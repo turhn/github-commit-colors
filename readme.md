@@ -4,3 +4,4 @@ It colors your GitHub commit lists by taking the first six characters of your co
 
 ## Screenshots
 
+[Screenshot]: img1.png "GitHubCommitColors"
